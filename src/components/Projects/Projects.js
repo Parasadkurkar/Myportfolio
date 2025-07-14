@@ -58,7 +58,7 @@ function Projects() {
               isBlog={false}
               title="MedXpert"
               description="A responsive e-commerce platform that enables users to browse and order medicines from nearby pharmacies. Developed as a mini-project using HTML, CSS, PHP, and MySQL, the site includes user login, product listings, order summary, and checkout functionality. Focused on quick local delivery and basic UI for community medical access."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              ghLink="https://github.com/ParasAdkurkar/MedXpert1"
               demoLink="https://medxpertbyparas.vercel.app/"
             />
           </Col>
